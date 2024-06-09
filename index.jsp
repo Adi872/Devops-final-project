@@ -5,7 +5,7 @@
     <title>Simple JSP Example</title>
 </head>
 <body>
-    <h1>Welcome to Simple JSP Example</h1>
+    <h1>Please enter your grade for our project (;</h1>
 
     <!-- Form for input -->
     <form method="post">
