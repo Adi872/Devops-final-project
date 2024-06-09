@@ -19,10 +19,12 @@
     <% 
         String inputText = request.getParameter("inputText");
         if (inputText != null) {
-            if ("110".equals(inputText)) {
-                out.println("<p>Great</p>");
+            if (inputText.equals("110")) {
+                out.println("<p style='color:green;'>Great</p>");
+            } else if (inputText.equals("100")) {
+                out.println("<p style='color:orange;'>Not enough</p>");
             } else {
-                out.println("<p>Incorrect</p>");
+                out.println("<p style='color:red;'>Incorrect</p>");
             }
         }
     %>
