@@ -5,11 +5,11 @@
     <title>Simple JSP Example</title>
 </head>
 <body>
-    <h1>Please enter your grade for our project (;</h1>
+    <h1>Hello and Welcome to our site!</h1>
 
     <!-- Form for input -->
     <form method="post">
-        <label for="inputText">Enter some text:</label>
+        <label for="inputText">Please enter your grade for our project (; </label>
         <input type="text" id="inputText" name="inputText" value="<%= request.getParameter("inputText") %>">
         
         <!-- Button -->
@@ -26,6 +26,12 @@
             }
         }
     %>
+
+    <a id="youtubeLink" href="https://www.youtube.com/" target="_blank">Youtube</a>
+	<br/>
+	<a id="facebookLink" href="https://www.facebook.com/" target="_blank">Facebook</a>
+    <br/>
+    <a id="facebookLink" href="http://localhost:8080/Devops-Final-Project-Hen-Inbar-Maayan-Adi/" target="_blank">Home</a>
 
 </body>
 </html>
