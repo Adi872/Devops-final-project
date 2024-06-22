@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Simple JSP Example</title>
+    <title>Devops Final Project</title>
 </head>
 <body>
     <h1>Hello and Welcome to our site!</h1>
