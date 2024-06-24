@@ -33,7 +33,7 @@
 	<br/>
 	<a id="facebookLink" href="https://www.facebook.com/" target="_blank">Facebook</a>
     <br/>
-    <a id="facebookLink" href="http://localhost:8080/Devops-Final-Project-Hen-Inbar-Maayan-Adi/" target="_blank">Home</a>
+    <a id="home_link" href="http://localhost:8080/Devops-Final-Project-Hen-Inbar-Maayan-Adi/" target="_blank">Home</a>
 
 </body>
 </html>
