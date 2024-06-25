@@ -5,7 +5,7 @@
     <title>Devops Final Project</title>
 </head>
 <body>
-    <h1>Hello and Welcome to our site!</h1>
+    <h1>Welcome to our site!</h1>
 
     <!-- Form for input -->
     <form method="post">
